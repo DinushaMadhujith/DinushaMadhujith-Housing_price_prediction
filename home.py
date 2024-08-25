@@ -19,8 +19,8 @@ This interactive application is designed to assist you in predicting house price
 # Footer or additional information
     st.write("""
 ---
-Created by [S.H.D.Madhujith](https://github.com/your-github-profile).
-For more information, visit the [GitHub repository](https://github.com/your-repository).
+Created by [S.H.D.Madhujith](https://github.com/DinushaMadhujith).
+For more information, visit the [GitHub repository](https://github.com/DinushaMadhujith/DinushaMadhujith-Housing_price_prediction).
 """)
 
     if __name__ == "__main__":
