@@ -54,6 +54,6 @@ def show_explore():
     st.write(filtered_data)
 
     # Optional: Save filtered data as CSV
-    if st.sidebar.button("Download Filtered Data"):
+    if st.sidebar.button("Explore Filtered Data"):
         filtered_data.to_csv("filtered_housing_data.csv", index=False)
         st.sidebar.success("Filtered data saved as 'filtered_housing_data.csv'")
